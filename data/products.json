@@ -1,0 +1,52 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Classic Leather Jacket",
+    "description": "A timeless black leather jacket with a zip front, two side pockets, and a quilted lining. Slim fit, suitable for casual or semi-formal wear. Made from full-grain cowhide leather.",
+    "price": 189.99,
+    "category": "outerwear",
+    "sizes": ["XS", "S", "M", "L", "XL"],
+    "inStock": true,
+    "sku": "LJ-BLK-001"
+  },
+  {
+    "id": "prod_002",
+    "name": "Arctic Winter Parka",
+    "description": "A heavyweight hooded parka rated for temperatures down to -20°F. Features a removable faux-fur trim hood, zip-out inner fleece liner, and four exterior pockets. Water-resistant shell.",
+    "price": 89.99,
+    "category": "outerwear",
+    "sizes": ["S", "L", "XL"],
+    "inStock": true,
+    "sku": "WP-BLK-002"
+  },
+  {
+    "id": "prod_003",
+    "name": "Ribbed Crop Top",
+    "description": "A fitted ribbed-knit crop top with a scoop neck. Hits above the waist. Soft cotton-spandex blend, available in white. Great for layering or warm-weather wear.",
+    "price": 29.99,
+    "category": "tops",
+    "sizes": ["XS", "S", "M"],
+    "inStock": true,
+    "sku": "CT-WHT-003"
+  },
+  {
+    "id": "prod_004",
+    "name": "Flannel Pajama Pants",
+    "description": "Super-soft red flannel pajama pants with an elastic drawstring waist and two side pockets. Relaxed fit for sleeping or lounging. 100% cotton flannel.",
+    "price": 19.99,
+    "category": "loungewear",
+    "sizes": ["S", "M", "L", "XL"],
+    "inStock": true,
+    "sku": "FPP-RED-004"
+  },
+  {
+    "id": "prod_005",
+    "name": "Cushioned Ankle Socks (3-Pack)",
+    "description": "A 3-pack of black cushioned ankle socks with arch support and moisture-wicking fabric. Reinforced heel and toe. Fits most adult shoe sizes 6–12.",
+    "price": 9.99,
+    "category": "accessories",
+    "sizes": ["One Size"],
+    "inStock": true,
+    "sku": "CAS-BLK-005"
+  }
+]
