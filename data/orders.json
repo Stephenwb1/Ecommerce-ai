@@ -1,0 +1,96 @@
+[
+  {
+    "id": "1001",
+    "customerName": "Alex Johnson",
+    "status": "delivered",
+    "estimatedDelivery": "2026-03-28",
+    "items": [
+      { "name": "Classic Leather Jacket", "sku": "LJ-BLK-001", "qty": 1 }
+    ]
+  },
+  {
+    "id": "1002",
+    "customerName": "Maria Santos",
+    "status": "shipped",
+    "estimatedDelivery": "2026-04-05",
+    "items": [
+      { "name": "Arctic Winter Parka", "sku": "WP-BLK-002", "qty": 1 },
+      { "name": "Cushioned Ankle Socks (3-Pack)", "sku": "CAS-BLK-005", "qty": 2 }
+    ]
+  },
+  {
+    "id": "1003",
+    "customerName": "James Lee",
+    "status": "processing",
+    "estimatedDelivery": "2026-04-08",
+    "items": [
+      { "name": "Ribbed Crop Top", "sku": "CT-WHT-003", "qty": 2 }
+    ]
+  },
+  {
+    "id": "1004",
+    "customerName": "Priya Patel",
+    "status": "shipped",
+    "estimatedDelivery": "2026-04-04",
+    "items": [
+      { "name": "Flannel Pajama Pants", "sku": "FPP-RED-004", "qty": 1 }
+    ]
+  },
+  {
+    "id": "1005",
+    "customerName": "Tom Rivera",
+    "status": "delivered",
+    "estimatedDelivery": "2026-03-30",
+    "items": [
+      { "name": "Cushioned Ankle Socks (3-Pack)", "sku": "CAS-BLK-005", "qty": 3 }
+    ]
+  },
+  {
+    "id": "1006",
+    "customerName": "Sarah Kim",
+    "status": "processing",
+    "estimatedDelivery": "2026-04-09",
+    "items": [
+      { "name": "Classic Leather Jacket", "sku": "LJ-BLK-001", "qty": 1 },
+      { "name": "Ribbed Crop Top", "sku": "CT-WHT-003", "qty": 1 }
+    ]
+  },
+  {
+    "id": "1007",
+    "customerName": "David Nguyen",
+    "status": "shipped",
+    "estimatedDelivery": "2026-04-03",
+    "items": [
+      { "name": "Arctic Winter Parka", "sku": "WP-BLK-002", "qty": 1 }
+    ]
+  },
+  {
+    "id": "1008",
+    "customerName": "Emma Clarke",
+    "status": "delivered",
+    "estimatedDelivery": "2026-03-25",
+    "items": [
+      { "name": "Flannel Pajama Pants", "sku": "FPP-RED-004", "qty": 2 },
+      { "name": "Cushioned Ankle Socks (3-Pack)", "sku": "CAS-BLK-005", "qty": 1 }
+    ]
+  },
+  {
+    "id": "1009",
+    "customerName": "Liam Okafor",
+    "status": "processing",
+    "estimatedDelivery": "2026-04-10",
+    "items": [
+      { "name": "Ribbed Crop Top", "sku": "CT-WHT-003", "qty": 1 }
+    ]
+  },
+  {
+    "id": "1042",
+    "customerName": "Chloe Marsh",
+    "status": "shipped",
+    "estimatedDelivery": "2026-04-04",
+    "items": [
+      { "name": "Classic Leather Jacket", "sku": "LJ-BLK-001", "qty": 1 },
+      { "name": "Flannel Pajama Pants", "sku": "FPP-RED-004", "qty": 1 }
+    ]
+  }
+]
